@@ -6,7 +6,7 @@
 
 -🧩 Currently, I am pursuing my studies at PUCPR.
 
--🔭 For a glimpse of my most notable works, visit my portfolio.
+-🔭 For a glimpse of my most notable works, visit my [Portfolio](https://carlosedrm.github.io/Portfolio/).
 
 -🧶 Besides my dedication to Computer Vision and AI, I also enjoy drawing and playing games.
 
