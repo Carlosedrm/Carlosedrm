@@ -8,7 +8,7 @@
 
 -🔭 For a glimpse of my most notable works, visit my [Portfolio](https://carlosedrm.github.io/Portfolio/).
 
--🧶 Besides my dedication to Computer Vision and AI, I also enjoy drawing and playing games.
+-🧶 Besides Computer Vision and AI, I also enjoy drawing and playing games.
 
 -📫 Don't hesitate to contact me at **carlosrmelloo@gmail.com**.
 
